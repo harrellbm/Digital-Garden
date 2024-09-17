@@ -1,16 +1,17 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-18
+"Last Tended:": 2024-09-17
 ---
 #🌿Sapling #🙂Agree
 ****
 >`Importance`: 10%
- 
-***Thesis***: technology is not value neutral. Every piece of technology works to realize a particular picture of human thriving and existence.
+
+>[!Summary] Thesis
+Technology is not value neutral. Every piece of technology works to realize a particular picture of human thriving and existence.
 
 * * *
 ### Related Notes 
-- [[AI, Technostress, and Faith]]
+- [[Stream of Consciousness on AI, Technostress, and Faith]]]
 - [[Ritual Technology]]
 - [[Metaphor of the Stream vs the Garden]]
 
